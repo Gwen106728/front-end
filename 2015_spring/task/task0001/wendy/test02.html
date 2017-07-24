@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test02</title>
+    <style type="text/css">
+        .bor p {height: 1px; }
+        .b1 {margin: 0 3px;    background-color: black;   }
+        .b2,  .b3,  .b4,  .mid {    border-left: 1px solid black;    border-right: 1px solid black;  }
+        .b2 {    margin: 0 2px;  }
+        .b3 {    margin: 0 1px;  }
+        .b4 {    margin: 0 1px;  }
+        .mid p {  margin: 0;  padding:0 10px;  font-size: 12px;  line-height: 24px;  white-space: pre-wrap;}
+        .circle {
+            width: 100px;
+            height: 100px;
+            background: red;
+            -moz-border-radius: 50px;
+            -webkit-border-radius: 50px;
+            border-radius: 50px;
+        }
+        .oval {
+            width: 200px;
+            height: 100px;
+            background: red;
+            -moz-border-radius: 100px / 50px;
+            -webkit-border-radius: 100px / 50px;
+            border-radius: 100px / 50px;
+        }
+        #triangle-up {
+            width: 0;
+            height: 0;
+            border-left: 50px solid transparent;
+            border-right: 50px solid transparent;
+            border-bottom: 100px solid red;
+        }
+        #triangle-topleft {
+            width: 0;
+            height: 0;
+            border-top: 100px solid red;
+            border-right: 100px solid transparent;
+        }
+        #parallelogram {
+            width: 150px;
+            height: 100px;
+            margin-left:20px;
+            transform: skew(20deg);
+            background: red;
+        }
+        #star-six {
+            width: 0;
+            height: 0;
+            border-left: 50px solid transparent;
+            border-right: 50px solid transparent;
+            border-bottom: 100px solid red;
+            position: relative;
+        }
+        #star-six:after {
+            width: 0;
+            height: 0;
+            border-left: 50px solid transparent;
+            border-right: 50px solid transparent;
+            border-top: 100px solid red;
+            position: absolute;
+            content: "";
+            top: 30px;
+            left: -50px;
+        }
+
+        #first{
+            float: left;
+            background-color: red;
+            width: 50px;
+            height: 50px;
+        }
+        #secend{
+            background-color: #77cce7;
+            margin: 0 0px 0px 50px;
+            width: auto;
+            height: 50px;
+        }
+
+    </style>
+</head>
+<body>
+<div style="width: 100%">
+    <div id="first">1111</div>
+    <div id="secend"></div>
+</div>
+<p class="circle"></p>
+<p class="oval"></p>
+<p id="triangle-up"></p>
+<p id="triangle-topleft"></p>
+<p id="parallelogram"></p>
+<p id="star-six"></p>
+<p class="bor">
+<p class="b1"></p>
+<p class="b2"></p>
+<p class="b3"></p>
+<p class="b4"></p>
+</p>
+<p class="mid">
+<p>不使用border-radius的情况下实现一个可复用的高度和宽度都自适应的圆角矩形</p>
+</p>
+<p class="bor">
+<p class="b4"></p>
+<p class="b3"></p>
+<p class="b2"></p>
+<p class="b1"></p>
+</p>
+</body>
+</html>
