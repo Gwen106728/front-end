@@ -41,7 +41,7 @@ function hello(string1) {
     var string3 = string1 + getstring();
     $("#out").html(string3);
     date3 -= 1000;
-    if (date3 == 0){
+    if (date3 < 1000){
         window.clearInterval(t1)
     }
 }

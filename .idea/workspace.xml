@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65902b5-4363-45eb-8202-4d43a306b513" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_1.html" afterPath="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_2.js" afterPath="$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_2.html" afterPath="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_2.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,41 +20,9 @@
       <file leaf-file-name="task0002_2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="110">
+              <caret line="5" column="80" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="80" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task0002_2.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="807">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task0002_1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task0002_1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!doc;n#checkhabbitcontent#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -62,8 +30,76 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="613" column="37" lean-forward="true" selection-start-line="613" selection-start-column="9" selection-end-line="613" selection-end-column="37" />
+            <state relative-caret-position="751">
+              <caret line="656" column="14" lean-forward="true" selection-start-line="656" selection-start-column="8" selection-end-line="656" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task0002_5.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="34" column="47" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0003/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1257">
+              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="design.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0003/img/design.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task0002_3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-440">
+              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2842#2846#1" expanded="true" />
+                <element signature="e#2902#2906#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task0002_4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="39" column="60" lean-forward="true" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task0002_drag.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/img/task0002_drag.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task0002_3.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -76,42 +112,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task0002_drag.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/img/task0002_drag.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/util.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc;n#isArray#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task0002.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -140,8 +147,12 @@
         <option value="$PROJECT_DIR$/2015_spring/task/task0002/README.md" />
         <option value="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_1.html" />
         <option value="$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_1.js" />
-        <option value="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_2.html" />
         <option value="$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_2.js" />
+        <option value="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_2.html" />
+        <option value="$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_3.js" />
+        <option value="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_3.html" />
+        <option value="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_4.html" />
+        <option value="$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_5.html" />
       </list>
     </option>
   </component>
@@ -205,7 +216,30 @@
               <item name="front-end" type="462c0819:PsiDirectoryNode" />
               <item name="2015_spring" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task0001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="2015_spring" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task0001" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="2015_spring" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
               <item name="task0002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="2015_spring" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task0002" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
@@ -223,6 +257,21 @@
               <item name="task0002" type="462c0819:PsiDirectoryNode" />
               <item name="wendy" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="2015_spring" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task0003" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="2015_spring" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task0003" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -341,12 +390,12 @@
       <workItem from="1500949152777" duration="655000" />
       <workItem from="1500968166809" duration="2402000" />
       <workItem from="1500971333972" duration="5056000" />
-      <workItem from="1501033823384" duration="5171000" />
+      <workItem from="1501033823384" duration="15031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48872000" />
+    <option name="totallyTimeSpent" value="58732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="4" width="2562" height="1367" extended-state="6" />
@@ -381,34 +430,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2015_summer/task/ria_qihang_02.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/apply/2015001/advanced/apply_example.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/apply/2015001/junior/apply_example.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/review/demo/task0002_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/review/demo/css/task0002_1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -447,23 +468,6 @@
     <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/review/IFE-review.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0003/img/design.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0003/img/design.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0003/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-804">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -622,16 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/img/task0002_sug.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/img/task0002_drag.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2015_spring/task/task0001/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="922">
@@ -656,14 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="613" column="37" lean-forward="true" selection-start-line="613" selection-start-column="9" selection-end-line="613" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
@@ -672,10 +658,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="1018" column="0" lean-forward="false" selection-start-line="1018" selection-start-column="0" selection-end-line="1018" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="983">
+          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -690,26 +692,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/img/task0002_sug.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="1018" column="0" lean-forward="false" selection-start-line="1018" selection-start-column="0" selection-end-line="1018" selection-end-column="0" />
+        <state relative-caret-position="22">
+          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/img/task0002_drag.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0003/img/design.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0003/img/design.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0003/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1257">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2842#2846#1" expanded="true" />
+            <element signature="e#2902#2906#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="60" lean-forward="true" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="656" column="14" lean-forward="true" selection-start-line="656" selection-start-column="8" selection-end-line="656" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="110">
+          <caret line="5" column="80" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/js/task0002_2.js">
+    <entry file="file://$PROJECT_DIR$/2015_spring/task/task0002/wendy/task0002_5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="286">
+          <caret line="34" column="47" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="47" />
           <folding />
         </state>
       </provider>

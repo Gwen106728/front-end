@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+            text-decoration: none;
+        }
+
+        body {
+            padding: 20px;
+        }
+
+        #container {
+            position: relative;
+            width: 600px;
+            height: 400px;
+            border: 3px solid #333;
+            overflow: hidden;
+        }
+
+        #list {
+            position: absolute;
+            z-index: 1;
+            width: 4200px;
+            height: 400px;
+        }
+
+        #list img {
+            float: left;
+            width:  600px;
+            height: 400px;
+        }
+
+        #buttons {
+            position: absolute;
+            left: 250px;
+            bottom: 20px;
+            z-index: 2;
+            height: 10px;
+            width: 100px;
+        }
+
+        #buttons span {
+            float: left;
+            margin-right: 5px;
+            width: 10px;
+            height: 10px;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            background: #333;
+            cursor: pointer;
+        }
+
+        #buttons .on {
+            background: orangered;
+        }
+
+        .arrow {
+            position: absolute;
+            top: 180px;
+            z-index: 2;
+            display: none;
+            width: 40px;
+            height: 40px;
+            font-size: 36px;
+            font-weight: bold;
+            line-height: 39px;
+            text-align: center;
+            color: #fff;
+            background-color: RGBA(0, 0, 0, .3);
+            cursor: pointer;
+        }
+
+        .arrow:hover {
+            background-color: RGBA(0, 0, 0, .7);
+        }
+
+        #container:hover .arrow {
+            display: block;
+        }
+
+        #prev {
+            left: 20px;
+        }
+
+        #next {
+            right: 20px;
+        }
+    </style>
+    <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.min.js"></script>
+    <script src="./js/task0002_3.js"></script>
+</head>
+
+<body>
+
+<div id="container">
+    <div id="list" style="left: -600px;">
+        <img src="./../../task0001/img/task0001_5.jpg" alt="1" />
+        <img src="./../../task0001/img/task0001_1.jpg" alt="1" />
+        <img src="./../../task0001/img/task0001_2.jpg" alt="2" />
+        <img src="./../../task0001/img/task0001_3.jpg" alt="3" />
+        <img src="./../../task0001/img/task0001_4.jpg" alt="4" />
+        <img src="./../../task0001/img/task0001_5.jpg" alt="5" />
+        <img src="./../../task0001/img/task0001_1.jpg" alt="5" />
+    </div>
+    <div id="buttons">
+        <span index="1" class="on"></span>
+        <span index="2"></span>
+        <span index="3"></span>
+        <span index="4"></span>
+        <span index="5"></span>
+    </div>
+    <a href="javascript:;" id="prev" class="arrow">&lt;</a>
+    <a href="javascript:;" id="next" class="arrow">&gt;</a>
+</div>
+
+</body>
+
+</html>
